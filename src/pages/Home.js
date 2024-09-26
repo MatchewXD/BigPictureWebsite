@@ -5,7 +5,7 @@ const Home = () => {
   return (
     <div style={{ textAlign: "center", padding: "50px" }}>
       <header>
-        <h1>Welcome to My React App</h1>
+        <h1>Big Picture</h1>
         <p>This is a simple home page example.</p>
         <img
           src="logo192.png"
